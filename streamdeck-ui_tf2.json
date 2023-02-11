@@ -8,25 +8,27 @@
                         "text": "Fish",
                         "command": "",
                         "text_vertical_align": "middle",
-                        "icon": "",
-                        "keys": "0xFFAF"
+                        "icon": "/home/adam/Pictures/steamdeck-ui/fish.png",
+                        "keys": "home+delay 0.1+0xFFAF"
                     },
                     "1": {
                         "text": "Bagpipes",
                         "text_vertical_align": "middle",
                         "command": "",
-                        "icon": "",
-                        "keys": "0xFF9F"
+                        "icon": "/mnt/windows_root/Users/Adam/Pictures/bagpipes2.png",
+                        "keys": "home+delay 0.1+0xFF9F"
                     },
                     "2": {
                         "text": "Toot",
                         "text_vertical_align": "middle",
-                        "keys": "0xFFAB"
+                        "keys": "home+delay 0.1+0xFFAB",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/vuvuzela_318-635663.png"
                     },
                     "3": {
                         "text": "Applause",
                         "text_vertical_align": "middle",
-                        "keys": "0xFFAD"
+                        "keys": "home+delay 0.1+0xFFAD",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/clap-emoji-by-twitter.png"
                     },
                     "4": {},
                     "5": {},
@@ -34,46 +36,54 @@
                     "7": {
                         "switch_page": 2,
                         "text": "Next",
-                        "text_vertical_align": "middle"
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/rightarrow.png"
                     },
                     "8": {
-                        "keys": "0xFFB7",
+                        "keys": "home+delay 0.1+0xFFB7",
                         "text": "Bonus Ducks",
-                        "text_vertical_align": "middle"
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/rubber-duck.png"
                     },
                     "9": {
-                        "keys": "0xFFB8",
-                        "text": "Screm",
-                        "text_vertical_align": "middle"
+                        "keys": "home+delay 0.1+0xFFB8",
+                        "text": "Burp",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/glass.png"
                     },
                     "10": {
-                        "keys": "0xFFB9",
-                        "text": "Burp",
-                        "text_vertical_align": "middle"
+                        "keys": "home+delay 0.1+0xFFB9",
+                        "text": "Burps",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/beers.png"
                     },
                     "11": {
                         "text": "Quack",
                         "text_vertical_align": "middle",
-                        "keys": "0xFFAA"
+                        "keys": "home+delay 0.1+0xFFAA",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/duck.png"
                     },
                     "12": {},
                     "13": {},
                     "14": {},
                     "15": {},
                     "16": {
-                        "keys": "0xFFB4",
-                        "text": "Babies",
-                        "text_vertical_align": "middle"
+                        "keys": "home+delay 0.1+0xFFB4",
+                        "text": "babnabab",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/banana-icon.png"
                     },
                     "17": {
-                        "keys": "0xFFB5",
-                        "text": "Pootis",
-                        "text_vertical_align": "middle"
+                        "keys": "home+delay 0.1+0xFFB5",
+                        "text": "DONK",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/bomb-icon-2.png"
                     },
                     "18": {
-                        "keys": "0xFFB6",
+                        "keys": "home+delay 0.1+0xFFB6",
                         "text": "Wolf",
-                        "text_vertical_align": "middle"
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/wolf.png"
                     },
                     "19": {},
                     "20": {},
@@ -81,19 +91,22 @@
                     "22": {},
                     "23": {},
                     "24": {
-                        "keys": "0xFFB1",
+                        "keys": "home+delay 0.1+0xFFB1",
                         "text": "Beep Boop",
-                        "text_vertical_align": "middle"
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/robot-assistant.png"
                     },
                     "25": {
-                        "keys": "0xFFB2",
+                        "keys": "home+delay 0.1+0xFFB2",
                         "text": "DemoPan",
-                        "text_vertical_align": "middle"
+                        "text_vertical_align": "middle",
+                        "icon": "/mnt/windows_root/Users/Adam/Pictures/250px-Frying_Pan.png"
                     },
                     "26": {
-                        "keys": "0xFFB3",
+                        "keys": "home+delay 0.1+0xFFB3",
                         "text": "You Suck",
-                        "text_vertical_align": "middle"
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/trombone.png"
                     },
                     "27": {},
                     "28": {},
@@ -102,10 +115,132 @@
                     "31": {
                         "text": "WHISTLE",
                         "text_vertical_align": "middle",
-                        "keys": "home+0xFF9E"
+                        "keys": "home+delay 0.1+0xFF9E",
+                        "icon": "/mnt/windows_root/Users/Adam/Pictures/19221923.jpg"
                     }
                 },
                 "1": {
+                    "0": {
+                        "text": "",
+                        "command": "",
+                        "text_vertical_align": "middle",
+                        "icon": "",
+                        "keys": ""
+                    },
+                    "1": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "command": "",
+                        "icon": "",
+                        "keys": ""
+                    },
+                    "2": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "keys": "",
+                        "icon": ""
+                    },
+                    "3": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "keys": "",
+                        "icon": ""
+                    },
+                    "4": {},
+                    "5": {},
+                    "6": {
+                        "text": "Prev",
+                        "switch_page": 1,
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/leftarrow.png"
+                    },
+                    "7": {
+                        "switch_page": 3,
+                        "text": "Next",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/rightarrow.png"
+                    },
+                    "8": {
+                        "keys": "end+delay 0.1+0xFFB7",
+                        "text": "Hallelujah",
+                        "text_vertical_align": "middle",
+                        "icon": ""
+                    },
+                    "9": {
+                        "keys": "",
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": ""
+                    },
+                    "10": {
+                        "keys": "",
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": ""
+                    },
+                    "11": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "keys": "",
+                        "icon": ""
+                    },
+                    "12": {},
+                    "13": {},
+                    "14": {},
+                    "15": {},
+                    "16": {
+                        "keys": "end+delay 0.1+0xFFB4",
+                        "text": "Babies",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/crying.png"
+                    },
+                    "17": {
+                        "keys": "end+delay 0.1+0xFFB5",
+                        "text": "Pootis",
+                        "text_vertical_align": "middle",
+                        "icon": "/mnt/windows_root/Users/Adam/Pictures/dispenser.png"
+                    },
+                    "18": {
+                        "keys": "end+delay 0.1+0xFFB6",
+                        "text": "Poopy Joe",
+                        "text_vertical_align": "middle",
+                        "icon": ""
+                    },
+                    "19": {},
+                    "20": {},
+                    "21": {},
+                    "22": {},
+                    "23": {},
+                    "24": {
+                        "keys": "end+delay 0.1+0xFFB1",
+                        "text": "SCREM",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/scream.png"
+                    },
+                    "25": {
+                        "keys": "end+delay 0.1+0xFFB2",
+                        "text": "Angelic",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/Smiling_Face_with_Halo_large.png"
+                    },
+                    "26": {
+                        "keys": "end+delay 0.1+0xFFB3",
+                        "text": "Car Toot",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/vuvuzela_318-635663.png"
+                    },
+                    "27": {},
+                    "28": {},
+                    "29": {},
+                    "30": {},
+                    "31": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "keys": "",
+                        "icon": ""
+                    }
+                },
+                "2": {
                     "0": {},
                     "1": {},
                     "2": {},
@@ -115,12 +250,14 @@
                     "6": {
                         "text": "Prev",
                         "text_vertical_align": "middle",
-                        "switch_page": 1
+                        "switch_page": 2,
+                        "icon": "/home/adam/Pictures/steamdeck-ui/leftarrow.png"
                     },
                     "7": {
-                        "switch_page": 3,
+                        "switch_page": 4,
                         "text": "Next",
-                        "text_vertical_align": "middle"
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/rightarrow.png"
                     },
                     "8": {},
                     "9": {},
@@ -141,91 +278,20 @@
                     "24": {
                         "text": "Spank",
                         "text_vertical_align": "middle",
-                        "keys": "insert+delay 0.1+0xFFB1"
+                        "keys": "insert+delay 0.1+0xFFB1",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/clap-emoji-by-twitter.png"
                     },
                     "25": {
                         "text": "Firebomb",
                         "text_vertical_align": "middle",
-                        "keys": "insert+delay 0.1+0xFFB2"
+                        "keys": "insert+delay 0.1+0xFFB2",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/196768.png"
                     },
                     "26": {
                         "text": "Timebomb",
                         "text_vertical_align": "middle",
-                        "keys": "insert+delay 0.1+0xFFB3"
-                    },
-                    "27": {},
-                    "28": {},
-                    "29": {},
-                    "30": {},
-                    "31": {}
-                },
-                "2": {
-                    "0": {},
-                    "1": {},
-                    "2": {},
-                    "3": {},
-                    "4": {},
-                    "5": {},
-                    "6": {
-                        "text": "Prev",
-                        "text_vertical_align": "middle",
-                        "switch_page": 2
-                    },
-                    "7": {},
-                    "8": {
-                        "keys": "delete+delay 0.1+0xFFB7",
-                        "text": "No Excuse",
-                        "text_vertical_align": "middle"
-                    },
-                    "9": {
-                        "keys": "delete+delay 0.1+0xFFB8",
-                        "text": "Don't Member",
-                        "text_vertical_align": "middle"
-                    },
-                    "10": {
-                        "keys": "delete+delay 0.1+0xFFB9",
-                        "text": "Demoscrem",
-                        "text_vertical_align": "middle"
-                    },
-                    "11": {},
-                    "12": {},
-                    "13": {},
-                    "14": {},
-                    "15": {},
-                    "16": {
-                        "keys": "delete+delay 0.1+0xFFB4",
-                        "text": "Gonna Kill Ya",
-                        "text_vertical_align": "middle"
-                    },
-                    "17": {
-                        "keys": "delete+delay 0.1+0xFFB5",
-                        "text": "On Like...",
-                        "text_vertical_align": "middle"
-                    },
-                    "18": {
-                        "keys": "delete+delay 0.1+0xFFB6",
-                        "text": "Cheers",
-                        "text_vertical_align": "middle"
-                    },
-                    "19": {},
-                    "20": {},
-                    "21": {},
-                    "22": {},
-                    "23": {},
-                    "24": {
-                        "keys": "delete+delay 0.1+0xFFB1",
-                        "text": "Pain Train",
-                        "text_vertical_align": "middle"
-                    },
-                    "25": {
-                        "keys": "delete+delay 0.1+0xFFB2",
-                        "text": "Gunshow",
-                        "text_vertical_align": "middle"
-                    },
-                    "26": {
-                        "keys": "delete+delay 0.1+0xFFB3",
-                        "text": "Ass is Ass",
-                        "text_vertical_align": "middle"
+                        "keys": "insert+delay 0.1+0xFFB3",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/0f00e1fdbdc45f7abeac51108dc6e804.png"
                     },
                     "27": {},
                     "28": {},
@@ -240,27 +306,77 @@
                     "3": {},
                     "4": {},
                     "5": {},
-                    "6": {},
+                    "6": {
+                        "text": "Prev",
+                        "text_vertical_align": "middle",
+                        "switch_page": 3,
+                        "icon": "/home/adam/Pictures/steamdeck-ui/leftarrow.png"
+                    },
                     "7": {},
-                    "8": {},
-                    "9": {},
-                    "10": {},
+                    "8": {
+                        "keys": "delete+delay 0.1+0xFFB7",
+                        "text": "No Excuse",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/No_icon_red.svg.png"
+                    },
+                    "9": {
+                        "keys": "delete+delay 0.1+0xFFB8",
+                        "text": "Don't Member",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/7491163.png"
+                    },
+                    "10": {
+                        "keys": "delete+delay 0.1+0xFFB9",
+                        "text": "Demoscrem",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/scream.png"
+                    },
                     "11": {},
                     "12": {},
                     "13": {},
                     "14": {},
                     "15": {},
-                    "16": {},
-                    "17": {},
-                    "18": {},
+                    "16": {
+                        "keys": "delete+delay 0.1+0xFFB4",
+                        "text": "Gonna Kill Ya",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/Skull-Icon.svg.png"
+                    },
+                    "17": {
+                        "keys": "delete+delay 0.1+0xFFB5",
+                        "text": "On Like...",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/Donkey_Kong_icon.png"
+                    },
+                    "18": {
+                        "keys": "delete+delay 0.1+0xFFB6",
+                        "text": "Cheers",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/beers.png"
+                    },
                     "19": {},
                     "20": {},
                     "21": {},
                     "22": {},
                     "23": {},
-                    "24": {},
-                    "25": {},
-                    "26": {},
+                    "24": {
+                        "keys": "delete+delay 0.1+0xFFB1",
+                        "text": "Pain Train",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/2855692.png"
+                    },
+                    "25": {
+                        "keys": "delete+delay 0.1+0xFFB2",
+                        "text": "Gunshow",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/adam/Pictures/steamdeck-ui/flex-icon-11.png"
+                    },
+                    "26": {
+                        "keys": "delete+delay 0.1+0xFFB3",
+                        "text": "Ass is Ass",
+                        "text_vertical_align": "middle",
+                        "icon": "/mnt/windows_root/Users/Adam/Pictures/Demotauntsr.png"
+                    },
                     "27": {},
                     "28": {},
                     "29": {},
@@ -474,7 +590,7 @@
             },
             "brightness": 99,
             "brightness_dimmed": 0,
-            "page": 2
+            "page": 3
         }
     }
 }
