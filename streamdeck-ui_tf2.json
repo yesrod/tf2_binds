@@ -121,11 +121,11 @@
                 },
                 "1": {
                     "0": {
-                        "text": "",
+                        "text": "Dead Ringer",
                         "command": "",
                         "text_vertical_align": "middle",
                         "icon": "",
-                        "keys": ""
+                        "keys": "end+delay 0.1+0xFFAF"
                     },
                     "1": {
                         "text": "",
@@ -167,14 +167,14 @@
                         "icon": ""
                     },
                     "9": {
-                        "keys": "",
-                        "text": "",
+                        "keys": "end+delay 0.1+0xFFB8",
+                        "text": "Scout's Balls",
                         "text_vertical_align": "middle",
                         "icon": ""
                     },
                     "10": {
-                        "keys": "",
-                        "text": "",
+                        "keys": "end+delay 0.1+0xFFB9",
+                        "text": "Decloak",
                         "text_vertical_align": "middle",
                         "icon": ""
                     },
@@ -590,7 +590,7 @@
             },
             "brightness": 99,
             "brightness_dimmed": 0,
-            "page": 3
+            "page": 1
         }
     }
 }
