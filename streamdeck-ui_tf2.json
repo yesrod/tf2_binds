@@ -128,22 +128,22 @@
                         "keys": "end+delay 0.1+0xFFAF"
                     },
                     "1": {
-                        "text": "",
+                        "text": "Headbutt",
                         "text_vertical_align": "middle",
                         "command": "",
                         "icon": "",
-                        "keys": ""
+                        "keys": "end+delay 0.1+0xFFAB"
                     },
                     "2": {
-                        "text": "",
+                        "text": "Bukkit O'Chikn",
                         "text_vertical_align": "middle",
-                        "keys": "",
+                        "keys": "end+delay 0.1+0xFFAD",
                         "icon": ""
                     },
                     "3": {
-                        "text": "",
+                        "text": "Butt Stuff",
                         "text_vertical_align": "middle",
-                        "keys": "",
+                        "keys": "end+delay 0.1+0xFF9F",
                         "icon": ""
                     },
                     "4": {},
@@ -179,9 +179,9 @@
                         "icon": ""
                     },
                     "11": {
-                        "text": "",
+                        "text": "Butt Times",
                         "text_vertical_align": "middle",
-                        "keys": "",
+                        "keys": "end+delay 0.1+0xFF9E",
                         "icon": ""
                     },
                     "12": {},
