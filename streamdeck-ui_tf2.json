@@ -241,11 +241,31 @@
                     }
                 },
                 "2": {
-                    "0": {},
-                    "1": {},
-                    "2": {},
-                    "3": {},
-                    "4": {},
+                    "0": {
+                        "text": "Badpipes 1",
+                        "text_vertical_align": "middle",
+                        "keys": "insert+delay 0.1+0xFFAD"
+                    },
+                    "1": {
+                        "text": "Badpipes 2",
+                        "text_vertical_align": "middle",
+                        "keys": "insert+delay 0.1+0xFFAB"
+                    },
+                    "2": {
+                        "text": "Badpipes 3",
+                        "text_vertical_align": "middle",
+                        "keys": "insert+delay 0.1+0xFF9E"
+                    },
+                    "3": {
+                        "text_vertical_align": "middle",
+                        "text": "Badpipes 4",
+                        "keys": "insert+delay 0.1+0xFF9F"
+                    },
+                    "4": {
+                        "text_vertical_align": "middle",
+                        "text": "Badpipes 5",
+                        "keys": "insert+delay 0.1+0xFFAF"
+                    },
                     "5": {},
                     "6": {
                         "text": "Prev",
@@ -590,7 +610,7 @@
             },
             "brightness": 99,
             "brightness_dimmed": 0,
-            "page": 1
+            "page": 2
         }
     }
 }
