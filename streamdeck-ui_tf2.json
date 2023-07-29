@@ -206,7 +206,12 @@
                         "text_vertical_align": "middle",
                         "icon": ""
                     },
-                    "19": {},
+                    "19": {
+                        "text": "Bugfart",
+                        "text_vertical_align": "middle",
+                        "command": "",
+                        "keys": "end+delay 0.1+0xFFAA"
+                    },
                     "20": {},
                     "21": {},
                     "22": {},
@@ -610,7 +615,7 @@
             },
             "brightness": 99,
             "brightness_dimmed": 0,
-            "page": 2
+            "page": 1
         }
     }
 }
