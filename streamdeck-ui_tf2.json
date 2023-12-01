@@ -133,7 +133,8 @@
                         "text_vertical_align": "middle",
                         "command": "",
                         "icon": "",
-                        "keys": "end+delay 0.1+0xFFAB"
+                        "keys": "end+delay 0.1+0xFFAB",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf"
                     },
                     "2": {
                         "text": "Bukkit O'Chikn",
@@ -195,13 +196,15 @@
                         "keys": "end+delay 0.1+0xFFB4",
                         "text": "Babies",
                         "text_vertical_align": "middle",
-                        "icon": "/home/adam/Pictures/steamdeck-ui/crying.png"
+                        "icon": "/home/adam/Pictures/steamdeck-ui/crying.png",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf"
                     },
                     "17": {
                         "keys": "end+delay 0.1+0xFFB5",
                         "text": "Pootis",
                         "text_vertical_align": "middle",
-                        "icon": "/mnt/windows_root/Users/Adam/Pictures/dispenser.png"
+                        "icon": "/mnt/windows_root/Users/Adam/Pictures/dispenser.png",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf"
                     },
                     "18": {
                         "keys": "end+delay 0.1+0xFFB6",
@@ -237,7 +240,8 @@
                         "keys": "end+delay 0.1+0xFFB3",
                         "text": "Car Toot",
                         "text_vertical_align": "middle",
-                        "icon": "/home/adam/Pictures/steamdeck-ui/vuvuzela_318-635663.png"
+                        "icon": "/home/adam/Pictures/steamdeck-ui/vuvuzela_318-635663.png",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf"
                     },
                     "27": {},
                     "28": {},
@@ -279,8 +283,18 @@
                     "13": {},
                     "14": {},
                     "15": {},
-                    "16": {},
-                    "17": {},
+                    "16": {
+                        "text": "Mediocrity",
+                        "text_vertical_align": "middle",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf",
+                        "keys": "page_up+delay 0.1+0xFFB4"
+                    },
+                    "17": {
+                        "text": "GG",
+                        "text_vertical_align": "middle",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf",
+                        "keys": "page_up+delay 0.1+0xFFB5"
+                    },
                     "18": {},
                     "19": {},
                     "20": {},
@@ -300,7 +314,12 @@
                         "keys": "page_up+delay 0.1+0xFFB2",
                         "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf"
                     },
-                    "26": {},
+                    "26": {
+                        "text": "Icarus",
+                        "text_vertical_align": "middle",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf",
+                        "keys": "page_up+delay 0.1+0xFFB3"
+                    },
                     "27": {},
                     "28": {},
                     "29": {},
@@ -426,7 +445,12 @@
                         "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf",
                         "keys": "delete+delay 0.1+0xFF9E"
                     },
-                    "3": {},
+                    "3": {
+                        "text": "Win or Lose",
+                        "text_vertical_align": "middle",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf",
+                        "keys": "delete+delay 0.1+0xFFAB"
+                    },
                     "4": {},
                     "5": {},
                     "6": {
@@ -477,7 +501,8 @@
                         "keys": "delete+delay 0.1+0xFFB6",
                         "text": "Cheers",
                         "text_vertical_align": "middle",
-                        "icon": "/home/adam/Pictures/steamdeck-ui/beers.png"
+                        "icon": "/home/adam/Pictures/steamdeck-ui/beers.png",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf"
                     },
                     "19": {},
                     "20": {},
@@ -681,7 +706,7 @@
             },
             "brightness": 99,
             "brightness_dimmed": 0,
-            "page": 2
+            "page": 0
         }
     }
 }
