@@ -168,7 +168,8 @@
                         "keys": "end+delay 0.1+0xFFB7",
                         "text": "Hallelujah",
                         "text_vertical_align": "middle",
-                        "icon": ""
+                        "icon": "",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf"
                     },
                     "9": {
                         "keys": "end+delay 0.1+0xFFB8",
@@ -210,13 +211,15 @@
                         "keys": "end+delay 0.1+0xFFB6",
                         "text": "Poopy Joe",
                         "text_vertical_align": "middle",
-                        "icon": ""
+                        "icon": "",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf"
                     },
                     "19": {
                         "text": "Bugfart",
                         "text_vertical_align": "middle",
                         "command": "",
-                        "keys": "end+delay 0.1+0xFFAA"
+                        "keys": "end+delay 0.1+0xFFAA",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf"
                     },
                     "20": {},
                     "21": {},
@@ -258,7 +261,12 @@
                     "0": {},
                     "1": {},
                     "2": {},
-                    "3": {},
+                    "3": {
+                        "text": "Rimshot",
+                        "text_vertical_align": "middle",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf",
+                        "keys": "page_up+delay 0.1+0xFFAA"
+                    },
                     "4": {},
                     "5": {},
                     "6": {
@@ -275,7 +283,12 @@
                         "switch_page": 4,
                         "icon": "/home/adam/Pictures/steamdeck-ui/rightarrow.png"
                     },
-                    "8": {},
+                    "8": {
+                        "text": "Spymance",
+                        "text_vertical_align": "middle",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf",
+                        "keys": "page_up+delay 0.1+0xFFB7"
+                    },
                     "9": {},
                     "10": {},
                     "11": {},
@@ -295,7 +308,12 @@
                         "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf",
                         "keys": "page_up+delay 0.1+0xFFB5"
                     },
-                    "18": {},
+                    "18": {
+                        "text": "After the War",
+                        "keys": "page_up+delay 0.1+0xFFB6",
+                        "font": "/home/adam/.local/pipx/venvs/streamdeck-linux-gui/lib/python3.11/site-packages/streamdeck_ui/fonts/roboto/Roboto-Regular.ttf",
+                        "text_vertical_align": "middle"
+                    },
                     "19": {},
                     "20": {},
                     "21": {},
@@ -706,7 +724,7 @@
             },
             "brightness": 99,
             "brightness_dimmed": 0,
-            "page": 0
+            "page": 2
         }
     }
 }
