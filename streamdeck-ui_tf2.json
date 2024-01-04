@@ -29,7 +29,7 @@
                         "states": {
                             "0": {
                                 "text": "Bagpipes",
-                                "icon": "/mnt/windows_root/Users/Adam/Pictures/bagpipes2.png",
+                                "icon": "",
                                 "keys": "home+delay 0.1+0xFF9F",
                                 "write": "",
                                 "command": "",
@@ -533,7 +533,7 @@
                         "states": {
                             "0": {
                                 "text": "DemoPan",
-                                "icon": "/mnt/windows_root/Users/Adam/Pictures/250px-Frying_Pan.png",
+                                "icon": "",
                                 "keys": "home+delay 0.1+0xFFB2",
                                 "write": "",
                                 "command": "",
@@ -659,7 +659,7 @@
                         "states": {
                             "0": {
                                 "text": "WHISTLE",
-                                "icon": "/mnt/windows_root/Users/Adam/Pictures/19221923.jpg",
+                                "icon": "",
                                 "keys": "home+delay 0.1+0xFF9E",
                                 "write": "",
                                 "command": "",
@@ -1039,7 +1039,7 @@
                         "states": {
                             "0": {
                                 "text": "Pootis",
-                                "icon": "/mnt/windows_root/Users/Adam/Pictures/dispenser.png",
+                                "icon": "",
                                 "keys": "end+delay 0.1+0xFFB5",
                                 "write": "",
                                 "command": "",
@@ -3250,7 +3250,7 @@
                         "states": {
                             "0": {
                                 "text": "Ass is Ass",
-                                "icon": "/mnt/windows_root/Users/Adam/Pictures/Demotauntsr.png",
+                                "icon": "",
                                 "keys": "delete+delay 0.1+0xFFB3",
                                 "write": "",
                                 "command": "",
